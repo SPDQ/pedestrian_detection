@@ -9,7 +9,7 @@ zhongx.m is window tracing method.
 ## Results
 The process of frame difference
 
-<img src='demo/part1/fdf.png' width='800'>
+<img src='https://github.com/SPDQ/pedestrian_detection/tree/master/part1/fdf.png' width='800'>
 <img src='demo/part1/fmor.png' width='800'>
 <img src='demo/part1/outcome2.png' width='800'>
 
