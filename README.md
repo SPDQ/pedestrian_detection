@@ -9,13 +9,13 @@ zhongx.m is window tracing method.
 ## Results
 The process of frame difference
 
-<img src='https://github.com/SPDQ/pedestrian_detection/blob/master/part1/fdf.png' width='600'>
-<img src='https://github.com/SPDQ/pedestrian_detection/blob/master/part1/fmor.png' width='600'>
-<img src='https://github.com/SPDQ/pedestrian_detection/blob/master/part1/outcome2.png' width='600'>
+<div align=center><img width="600" src="https://github.com/SPDQ/pedestrian_detection/blob/master/part1/fdf.png"/></div>
+<div align=center><img width="600" src="https://github.com/SPDQ/pedestrian_detection/blob/master/part1/fmor.png"/></div>
+<div align=center><img width="600" src="https://github.com/SPDQ/pedestrian_detection/blob/master/part1/outcome2.png"/></div>
 
 The process of background difference
 
-<img src='demo/part1/background.png' width='600'>
-<img src='demo/part1/bgdif.png' width='600'>
-<img src='demo/part1/bgmor.png' width='600'>
-<img src='demo/part1/outcome1.png' width='600'>
+<div align=center><img width="600" src="https://github.com/SPDQ/pedestrian_detection/blob/master/part1/background.png"/></div>
+<div align=center><img width="600" src="https://github.com/SPDQ/pedestrian_detection/blob/master/part1/bgdif.png"/></div>
+<div align=center><img width="600" src="https://github.com/SPDQ/pedestrian_detection/blob/master/part1/bgmor.png"/></div>
+<div align=center><img width="600" src="https://github.com/SPDQ/pedestrian_detection/blob/master/part1/outcome1.png"/></div>
